@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BeginStateSkin" width="1136" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16ef8f163a7" ></w:Config>
+	<e:Image source="bg1_jpg" x="0" y="0" width="1136" height="640"/>
+	<e:Button id="begingame" label="开始游戏" x="482" y="456" width="200"/>
+</e:Skin>
